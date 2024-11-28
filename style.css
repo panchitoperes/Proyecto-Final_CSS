@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.tag_product2 > p {
+    font-style: italic;
+}
+
+#title_product2{
+    color: blue;
+    font-weight: bolder;
+}
+
+
+.tag_product {
+    background-color: yellowgreen;
+}
+
+/* !important*/ 
+li{
+    background-color: aqua;
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    font-style: italic !important;
+    list-style: none;
+}
+
