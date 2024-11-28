@@ -2,9 +2,12 @@ body{
     margin: 0;
 }
 
+/* 0.0.0.1  p*/
 .tag_product2 > p {
     font-style: italic;
 }
+
+/* 0.1.0.0 ID  */
 
 #title_product2{
     color: blue;
